@@ -18,7 +18,7 @@ int main(int argc, char const *argv[])
         break;
     
     default:
-    printf("Invalid input!");
+        printf("Invalid input!");
         break;
     }
     return 0;
