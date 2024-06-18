@@ -3,7 +3,7 @@
 // 1st way to create the function
 // Step:1 Create a function prototype
 
-void swap(int, int);
+void swap(int*, int*);
 
 int main ( int argc, char* argv[])
 {
