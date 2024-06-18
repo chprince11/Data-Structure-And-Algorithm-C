@@ -1,6 +1,8 @@
 #include <stdio.h>
+
 void loop(void);
-int main(int argc, char const *argv[])
+
+int main(int argc, char* argv[])
 {
     loop();
     return 0;
